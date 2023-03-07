@@ -1,8 +1,8 @@
 .card {
-    width: calc(33.3% - 30px); /* 20px is the total margin space between 3 cards */
+    width: 370px;
     height: 600px;
     margin: 5px; /* 10px margin around each card */
-    margin-top: auto;
+    margin-top: auto;  
     border: 1px solid #0a0808; /* add a border to the card */
     box-shadow: 1px 1px 3px #000000; /* add a box shadow to the card */
     transition: transform 0.3s; /* add a transition effect for hover */
