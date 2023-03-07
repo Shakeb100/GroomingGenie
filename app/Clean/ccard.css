@@ -1,0 +1,27 @@
+.card {
+    width: 370px;
+    height: 600px;
+    margin: 5px; /* 10px margin around each card */
+    margin-top: auto;
+    border: 1px solid #0a0808; /* add a border to the card */
+    box-shadow: 1px 1px 3px #000000; /* add a box shadow to the card */
+    transition: transform 0.3s; /* add a transition effect for hover */
+    background-color: #f7f7f7;
+    border-radius: 5%;
+    cursor: pointer; /* add cursor pointer on hover */
+  
+  
+  }
+  
+  .card:hover {
+    transform: translateY(-25px); /* move the card up by 10px when hovered */
+  }
+  
+  
+  .card-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
