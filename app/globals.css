@@ -5,13 +5,12 @@ body {
 }
 
 .header-font{
-  font-family: 'Josefin Sans', sans-serif;
   text-align: center;
   margin-top: 5rem;
   font-size: 60px;
 }
 
 .font{
-  font-family: 'Josefin Sans', sans-serif;
   text-align: center;
+  padding: 15px;
 }
