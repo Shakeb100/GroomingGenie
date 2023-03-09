@@ -14,9 +14,9 @@ const App: React.FC = () => {
             <div className={jose.className}>
       <h1 className = "header-font" > Choose your goal</h1>
       <div className='card-container'>
-      <Card title ="If it aint broke..." description="For those that wanna keep their beautiful baby face"/>
-      <Card title ="Grow a lil something" description="Looking to begin your journey into the world of facial hair" />
-      <Card title ="Full Send" description="For those who want to commit to that lucious beard" />
+      <Card title ="If it aint broke..." description="for those that wanna keep their beautiful baby face"/>
+      <Card title ="Grow a lil Something" description="when you're just getting started in to the journey of facial hair" />
+      <Card title ="Full Send" description="for those who want to commit to growing that lucious beard" />
     </div>
     </div>
     </div>

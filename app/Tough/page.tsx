@@ -13,11 +13,13 @@ const App: React.FC = () => {
     <div className="body">
       <div className={jose.className}>
       <h1 className = "header-font" > Choose your goal</h1>
+    
+
 
       <div className='card-container'>
-      <Card title ="If it aint broke..." description="Keep that scruffy scratchy goodness"/>
+      <Card title ="If it aint broke..." description="keep that scruffy scratchy goodness"/>
       <Card title ="Fresh Start" description="Tired of the scuff? Shave it off" />
-      <Card title ="Full Send" description="For those that want that fresh out of the woods, lumberjack looks" />
+      <Card title ="Full Send" description="for those that want that fresh out of the woods, lumberjack look" />
       
     </div>
     </div>

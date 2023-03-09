@@ -15,15 +15,15 @@ const App: React.FC = () => {
       <div className='card-container'>
 
         <Link href = "/Clean">
-          <Card title ="Clean Shaven" description="Baby's Bottom"/>
+          <Card title ="Clean Shaven" description="face smoother than a baby's bottom"/>
         </Link>
 
         <Link href = "/Tough">
-          <Card title ="Tough Scruff" description="Rough and Rugged" />
+          <Card title ="Tough Scruff" description="for the ones that can proudly grow a little something" />
         </Link>
 
         <Link href = "/Lumber">
-          <Card title ="Lumberjack" description="Manly Man" />
+          <Card title ="Lumberjack" description="Santa Clause, lumberjacks, wizards..." />
         </Link>
         </div>
         </div>
