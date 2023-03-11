@@ -14,9 +14,19 @@ const App: React.FC = () => {
       <div className={jose.className}>
       <h1 className = "header-font" >Choose your goal</h1>
       <div className='card-container'>
+
+      <Link href = "CS_Final"> 
       <Card title ="Fresh start" description="When you want to look a decade younger and shave it off"/>
+      </Link>
+
       <Card title ="Mow the lawn" description="grooming your beautiful beard for a more manageable look" />
+
+
+
       <Card title ="Style it" description="for those that want to keep their facial folliage fresh and maintained" />
+
+
+    
     </div>
     </div>
     </div>

@@ -18,7 +18,11 @@ const App: React.FC = () => {
 
       <div className='card-container'>
       <Card title ="If it aint broke..." description="keep that scruffy scratchy goodness"/>
+
+      <Link href = 'CS_Final'>
       <Card title ="Fresh Start" description="Tired of the scuff? Shave it off" />
+      </Link>
+
       <Card title ="Full Send" description="for those that want that fresh out of the woods, lumberjack look" />
       
     </div>
