@@ -15,7 +15,7 @@ const App: React.FC = () => {
       <h1 className = "header-font" > Choose your goal</h1>
       <div className='card-container'>
 
-      <Link href = "/CS_Final">
+      <Link href = "/Results_CS">
       <Card title ="If it aint broke..." description="for those that wanna keep their beautiful baby face"/>
       </Link>
 

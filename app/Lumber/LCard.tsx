@@ -10,12 +10,6 @@ interface CardProps {
 
 
 const Card: React.FC<CardProps> = ({ title, description, onClick }) => {
-  const handleClick = () => {
-    console.log(`Clicked ${title}`);
-    if (onClick) {
-      onClick();
-    }
-  };
   return (
     <div className="card" onClick={onClick}>
       <h2 className='font'>{title}</h2>

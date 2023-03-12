@@ -19,7 +19,7 @@ const App: React.FC = () => {
       <div className='card-container'>
       <Card title ="If it aint broke..." description="keep that scruffy scratchy goodness"/>
 
-      <Link href = 'CS_Final'>
+      <Link href = 'Results_CS'>
       <Card title ="Fresh Start" description="Tired of the scuff? Shave it off" />
       </Link>
 

@@ -15,7 +15,7 @@ const App: React.FC = () => {
       <h1 className = "header-font" >Choose your goal</h1>
       <div className='card-container'>
 
-      <Link href = "CS_Final"> 
+      <Link href = "Results_CS"> 
       <Card title ="Fresh start" description="When you want to look a decade younger and shave it off"/>
       </Link>
 

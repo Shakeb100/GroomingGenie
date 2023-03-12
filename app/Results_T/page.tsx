@@ -12,7 +12,7 @@ const App: React.FC = () => {
     return (
       <div className="body">
         <div className={jose.className}>
-        <h1 className = "header-font" > Clean Shaven Results</h1>
+        <h1 className = "header-font" >What you need for ultimate beard</h1>
    
 
       <ResultCard title ="Grow a lil Something" description="when you're just getting started in to the journey of facial hair" />
