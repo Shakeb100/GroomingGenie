@@ -1,0 +1,19 @@
+.card {
+    width: 85rem;
+    height: 46rem;
+    margin: auto; /* 10px margin around each card */
+    margin-top: auto;
+    border: 3px solid #0a0808; /* add a border to the card */
+    box-shadow: 1px 1px 3px #000000; /* add a box shadow to the card */
+    transition: transform 0.3s; /* add a transition effect for hover */
+    background-color: #f7f7f7;
+    border-radius: 3%;
+  }
+  
+  .card-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
