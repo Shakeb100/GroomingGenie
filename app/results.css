@@ -3,10 +3,9 @@
     height: 45rem;
     margin: auto; /* 10px margin around each card */
     margin-top: auto;
-    border: 2px solid #0a0808; /* add a border to the card */
-    box-shadow: 1px 1px 2px #000000; /* add a box shadow to the card */
+    border: 1px solid #0a0808; /* add a border to the card */
     background-color: #f7f7f7;
-    border-radius: 1%;
+    border-radius: 0%;
   }
   
   .card-container{
