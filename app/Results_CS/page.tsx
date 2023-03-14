@@ -13,11 +13,22 @@ const App: React.FC = () => {
       <div className="body">
         <div className={jose.className}>
         <h1 className = "header-font" >What you need for a fresh face</h1>
-   
+        </div>
 
-      <ResultCard title ="Grow a lil Something" description="when you're just getting started in to the journey of facial hair" />
+
+        <div className='center'>
+        <iframe
+        src="https://shakeb100-stable-diffusion-inpainting.hf.space"
+        frameBorder="0"
+        width="800"
+        height= "565"
+      ></iframe>
         </div>
+
+
+
         </div>
-)}
+  )
+}
 
 export default App;

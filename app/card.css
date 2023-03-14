@@ -13,10 +13,6 @@
 
 }
 
-.card:hover {
-  transform: translateY(-25px); /* move the card up by 10px when hovered */
-}
-
 
 .card-container{
   display: flex;
