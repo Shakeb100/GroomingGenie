@@ -16,5 +16,20 @@ body {
 }
 
 .center{
-  margin-left: 43rem;
+  margin-left: 60rem;
 }
+
+.container {position: relative; 
+  width:100%; 
+  background: #f4f5f4; 
+  min-height: 600px; }
+
+.white-box { 
+width: 1450px; 
+height: 550px; 
+margin-top: 50px; 
+background-color: white;
+padding: 30px;
+}
+
+
