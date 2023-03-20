@@ -19,8 +19,9 @@ const App: React.FC = () => {
       <Card title ="Fresh start" description="When you want to look a decade younger and shave it off"/>
       </Link>
 
+      <Link href= "Results_T">
       <Card title ="Trim it up" description="grooming your beautiful beard for a more manageable look" />
-
+      </Link>
 
 
       <Card title ="Style it" description="for those that want to keep their facial folliage fresh and maintained" />
