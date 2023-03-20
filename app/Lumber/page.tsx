@@ -16,7 +16,7 @@ const App: React.FC = () => {
       <div className='card-container'>
 
       <Link href = "Results_CS"> 
-      <Card title ="Fresh start" description="When you want to look a decade younger and shave it off"/>
+      <Card title ="Fresh start" description="when you want to look a decade younger and shave it off"/>
       </Link>
 
       <Link href= "Results_T">
