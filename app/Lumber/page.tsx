@@ -23,9 +23,9 @@ const App: React.FC = () => {
       <Card title ="Trim it up" description="grooming your beautiful beard for a more manageable look" />
       </Link>
 
-
+      <Link href = "Result_Style">
       <Card title ="Style it" description="for those that want to keep their facial folliage fresh and maintained" />
-
+      </Link>
 
     
     </div>
