@@ -1,7 +1,7 @@
 .card {
     width: 93rem;
     height: 45rem;
-    margin: auto; /* 10px margin around each card o */
+    margin: auto; /* 10px margin around each card */
     margin-top: auto;
     border: 1px solid #0a0808; /* add a border to the card */
     background-color: #f7f7f7;
