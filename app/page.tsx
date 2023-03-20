@@ -15,7 +15,7 @@ const App: React.FC = () => {
       <div className='card-container'>
 
         <Link href = "/Clean">
-          <Card title ="Clean Shaven" description="face smoother than a baby's bottom"/>
+          <Card title ="Testing Again" description="face smoother than a baby's bottom"/>
         </Link>
 
         <Link href = "/Tough">
