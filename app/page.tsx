@@ -11,7 +11,7 @@ const App: React.FC = () => {
   return (
     <div className="body">
         <div className={jose.className}>
-      <h1 className = "header-font"> Your Current Facial Hair</h1>
+      <h1 className = "header-font"> Enter Your Current Facial Hair</h1>
       <div className='card-container'>
 
         <Link href = "/Clean">
