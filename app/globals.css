@@ -24,27 +24,42 @@ body {
 
 .white-box {
   width: 1470px;
-  height: 550px;
+  height: 600px;
   background-color: white;
   padding: 20px;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap; 
 }
 
 .text-container {
   flex: 1;
-  padding: 2rem;
 }
-
+          
 .iframe-container {
-  width: 780px;
-  margin-top: 22px;
+  display: flex;
+  align-items: center;
 }
 
 .info-font{
   font-size: large;
+  padding: 1rem;
+
 }
- .infohead{
+
+.infohead{
   font-size: 33px;
-  text-align: center
+  text-align: center;
  }
+
+ .title-contain{
+  align-items: center;
+  flex: 1;
+  padding: 2rem;
+  margin-top: 2rem;
+ }
+ 
+.clean-container{
+  padding: 2rem;
+  margin-right: 50rem;
+}

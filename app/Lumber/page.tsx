@@ -19,7 +19,7 @@ const App: React.FC = () => {
       <Card title ="Fresh start" description="When you want to look a decade younger and shave it off"/>
       </Link>
 
-      <Card title ="Mow the lawn" description="grooming your beautiful beard for a more manageable look" />
+      <Card title ="Trim it up" description="grooming your beautiful beard for a more manageable look" />
 
 
 

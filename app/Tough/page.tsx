@@ -17,13 +17,18 @@ const App: React.FC = () => {
 
 
       <div className='card-container'>
+
+      <Link href= "Results_T">
       <Card title ="If it aint broke..." description="keep that scruffy scratchy goodness"/>
+      </Link>
 
       <Link href = 'Results_CS'>
       <Card title ="Fresh Start" description="Tired of the scuff? Shave it off" />
       </Link>
 
+      <Link href= 'Results_L'>
       <Card title ="Full Send" description="for those that want that fresh out of the woods, lumberjack look" />
+      </Link>
       
     </div>
     </div>
