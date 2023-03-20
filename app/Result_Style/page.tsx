@@ -12,12 +12,12 @@ const App: React.FC = () => {
   return (
     <div className="body">
       <div className={jose.className}>
-      <h1 className = "header-font" >Mountain Man Beard</h1>
+      <h1 className = "header-font" >New Styles!</h1>
 
       <div className='white-box'>
           <div className="text-container">
             <div className='info-font'>
-            <p className='infohead'>Style it up!</p>
+            <p className='infohead'>So you want some change...</p>
             <ul>🪒 There are hundreds of posisble styles you can try out on your lucious mane, always be open to experiment</ul>
             <ul>🪒 Different beards look better on different face shapes. Find your face shape and figure out what works best for you!</ul>
             <ul>🪒 Ask you local barbershop for what might work best for you, one on one professional advice always works best!</ul>
