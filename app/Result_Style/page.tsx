@@ -17,7 +17,7 @@ const App: React.FC = () => {
       <div className='white-box'>
           <div className="text-container">
             <div className='info-font'>
-            <p className='infohead'>So you want some change...</p>
+            <p className='infohead'>So You Want Some Change...</p>
             <ul>🪒 There are hundreds of posisble styles you can try out on your lucious mane, always be open to experiment</ul>
             <ul>🪒 Different beards look better on different face shapes. Find your face shape and figure out what works best for you!</ul>
             <ul>🪒 Ask you local barbershop for what might work best for you, one on one professional advice always works best!</ul>
