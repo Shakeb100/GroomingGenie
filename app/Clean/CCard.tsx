@@ -17,7 +17,7 @@ const Card: React.FC<CardProps> = ({ title, description, onClick }) => {
     }
   };
   return (
-    <div className="card" onClick={onClick}>
+    <div className="card clink" onClick={onClick}>
       <h2 className='font'>{title}</h2>
       <p className='font'>{description}</p>
     </div>
