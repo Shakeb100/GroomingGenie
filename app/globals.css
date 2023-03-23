@@ -1,6 +1,6 @@
 
 body {
-  background-color: #89b6e0;
+  background-color: hsl(209, 58%, 71%);
   height: 100vh;
 }
 
@@ -64,6 +64,11 @@ body {
   margin-right: 50rem;
 }
 a {
+  color: #045f9c;
+  text-decoration: none;
+}
+
+.clink {
   color: rgb(0, 0, 0);
   text-decoration: none;
 }
