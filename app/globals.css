@@ -72,3 +72,15 @@ a {
   color: rgb(0, 0, 0);
   text-decoration: none;
 }
+
+.image-column {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-column img {
+  max-width: 100%;
+  height: auto;
+}
