@@ -60,6 +60,10 @@ body {
  }
  
 .clean-container{
-  padding: 2rem;
+  padding: 2rem; 
   margin-right: 50rem;
+}
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
 }
