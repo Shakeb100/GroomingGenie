@@ -42,8 +42,8 @@ body {
 }
 
 .info-font{
-  font-size: large;
-  padding: 1rem;
+  font-size: 19px;
+  padding: rem;
 
 }
 
@@ -60,7 +60,6 @@ body {
  }
  
 .clean-container{
-  padding: 2rem; 
   margin-right: 50rem;
 }
 a {
@@ -73,14 +72,20 @@ a {
   text-decoration: none;
 }
 
-.image-column {
-  flex: 1;
+img {
+  max-width: 90%;
+}
+
+.freshface-white-box {
+  width: 1470px;
+  height: 600px;
+  background-color: white;
+  padding: 20px;
   display: flex;
-  justify-content: center;
+  justify-content: center; /* center the content horizontally */
   align-items: center;
 }
 
-.image-column img {
-  max-width: 100%;
-  height: auto;
+.freshface-clean-container{
+  margin-right: 5rem;
 }
