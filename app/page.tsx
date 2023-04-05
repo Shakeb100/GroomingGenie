@@ -19,11 +19,11 @@ const App: React.FC = () => {
         </Link>
 
         <Link href = "/Tough">
-          <Card title ="Tough Scruff" description="for the ones that can proudly grow a little something" />
+          <Card title ="Tough Scruff" description="for the ones that can proudly grow a little something"/>
         </Link>
  
         <Link href = "/Lumber">
-          <Card title ="Lumberjack" description="Santa Clause, lumberjacks, wizards..." />
+          <Card title ="Lumberjack" description="Santa Clause, lumberjacks, wizards..."/>
         </Link>
         </div>
         </div>
