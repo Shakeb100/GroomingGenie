@@ -5,9 +5,9 @@ Grooming Genie is an innovative web application built with TypeScript and Next.j
 
 
 ## Features 🚀
-- Simple and intuitive user interface
-- Personalized grooming suggestions based on user's current state and goals
-- Easy to use and navigate
+- Simple and intuitive user interface.
+- Personalized grooming suggestions based on user's current state and goals.
+- Easy to use and navigate.
 - Suggests popular products to users to achieve their facial hair goals.
 - Try on different beard styles before making a commitment! Upload a photo of yourself and see how you would look with a beard using our AI Beard Generator powered by Huggingface and PyTorch.
 <img width="400" alt="Screenshot 2023-03-23 at 10 23 56 PM" src="https://user-images.githubusercontent.com/93355100/227625377-74af40db-65db-451f-8d3f-b291ee0cdd99.png">
