@@ -11,7 +11,6 @@ const jose = Josefin_Sans({ subsets: ['latin']})
 const App: React.FC = () => {
   return (
     <div className="body">
-      <head>Grooming Genie</head>
       <div className={jose.className}>
       <h1 className = "header-font" >Fresh Face</h1>
 

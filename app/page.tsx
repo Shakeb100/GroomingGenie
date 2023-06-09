@@ -10,14 +10,13 @@ const jose = Josefin_Sans({ subsets: ['latin']})
 const App: React.FC = () => {
   return (
     <div className="body">
-      <head>Grooming Genie</head>
         <div className={jose.className}>
       <h1 className = "header-font"> Enter Your Current Facial Hair</h1>
       <div className='card-container'>
 
         <Link href = "/Clean">
           <Card title ="Clean Shaven" description="face smoother than a baby's bottom"/>
-        </Link>
+        </Link>   
 
         <Link href = "/Tough">
           <Card title ="Tough Scruff" description="for the ones that can proudly grow a little something"/>
