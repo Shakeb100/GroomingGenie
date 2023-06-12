@@ -7,33 +7,18 @@ import Head from 'next/head';
 
 const jose = Josefin_Sans({ subsets: ['latin']})
 
-const App: React.FC = () => {
+const app: React.FC = () => {
   return (
     <div className="body">
-            <Head>
-        <title>Grooming Genie</title>
-            </Head>
         <div className={jose.className}>
-      <h1 className = "header-font"> Enter Your Current Facial Hair</h1>
-      <div className='card-container'>
-
-        <Link href = "/Clean">
-          <Card title ="Clean Shaven" description="face smoother than a baby's bottom"/>
-        </Link>   
-
-        <Link href = "/Tough">
-          <Card title ="Tough Scruff" description="for the ones that can proudly grow a little something"/>
+        <h1 className = "header-font">Grooming Genie</h1>
+        <Link href= "/StartPage">
+        <button>Get Started</button>
         </Link>
- 
-        <Link href = "/Lumber">
-          <Card title ="Lumberjack" description="Santa Clause, lumberjacks, wizards..."/>
-        </Link>
-        </div>
-        </div>
+    </div>
     </div>
 
   );
 };
 
-export default App;
-
+export default app;
