@@ -14,6 +14,7 @@ const App: React.FC = () => {
       <div className={jose.className}>
       <h1 className = "header-font" >New Styles!</h1>
 
+      <div className="center-content2">
       <div className='white-box'>
           <div className="text-container">
             <div className='info-font'>
@@ -36,6 +37,7 @@ const App: React.FC = () => {
             width="770"
             height="500"
           ></iframe>
+        </div>
         </div>
         
       </div>

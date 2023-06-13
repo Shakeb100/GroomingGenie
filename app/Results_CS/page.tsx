@@ -13,7 +13,7 @@ const App: React.FC = () => {
     <div className="body">
       <div className={jose.className}>
       <h1 className = "header-font" >Fresh Face</h1>
-
+      <div className="center-content2">
       <div className="freshface-white-box">
       <div className="freshface-clean-container">
             <div className='info-font'>
@@ -27,8 +27,10 @@ const App: React.FC = () => {
           <div>
               <img src="Blade Razor.jpeg" className='freshface-right-img'></img>
             </div>
+            </div>
           </div>
         
+      
       </div>
       </div>
 

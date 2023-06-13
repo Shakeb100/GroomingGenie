@@ -13,7 +13,7 @@ const App: React.FC = () => {
     <div className="body">
       <div className={jose.className}>
       <h1 className = "header-font" >Mountain Man Beard</h1>
-
+      <div className="center-content2">
       <div className='white-box'>
           <div className="text-container">
             <div className='info-font'>
@@ -36,6 +36,7 @@ const App: React.FC = () => {
             width="770"
             height="500"
           ></iframe>
+        </div>
         </div>
         
       </div>

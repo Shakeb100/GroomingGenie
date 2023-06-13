@@ -14,6 +14,7 @@ const App: React.FC = () => {
       <div className={jose.className}>
       <h1 className = "header-font" >Tough Scruff Beard</h1>
 
+      <div className="center-content2">
       <div className='white-box'>
           <div className="text-container">
             <div className='info-font'>
@@ -27,6 +28,7 @@ const App: React.FC = () => {
           <h2 className='title-contain'>Upload a photo of yourself on the right and mask the area around your mouth. Submit to see the magic!</h2>
         </div>
           </div>
+          
 
 
 
@@ -36,6 +38,7 @@ const App: React.FC = () => {
             width="770"
             height="500"
           ></iframe>
+        </div>
         </div>
         
       </div>
