@@ -13,7 +13,7 @@ const app: React.FC = () => {
         <div className={jose.className}>
         <h1 className = "header-font">Grooming Genie🧞</h1>
         <div className="center-content">
-        <h2>Use the "magic" of Grooming Genie's Dall-E pwered AI beard Generator!</h2>
+        <h2>Use the "magic" of Grooming Genie's Dall-E Powered AI Beard Generator!</h2>
         <Link href= "/FirstPage">
           <button className='button-80'>Get Started</button>
         </Link>
