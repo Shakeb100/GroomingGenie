@@ -12,9 +12,11 @@ const app: React.FC = () => {
     <div className="body">
         <div className={jose.className}>
         <h1 className = "header-font">Grooming Genie</h1>
-        <Link href= "/StartPage">
-        <button>Get Started</button>
+        <div className="center-content">
+        <Link href= "/FirstPage">
+          <button className='button-80'>Get Started</button>
         </Link>
+        </div>
     </div>
     </div>
 
