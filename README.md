@@ -22,7 +22,7 @@ Grooming Genie is an innovative web application built with TypeScript and Next.j
 - PyTorch: A powerful machine learning framework that is used to create the realistic Beard Generator in our Huggingface space.
 
 
-## Future Developments 🔜
+## Future Developments 
 -  Hosting the application on the internet to reach a wider audience.
 - Connecting with local barbershops and salons to provide users with local grooming services.
 
