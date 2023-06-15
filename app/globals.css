@@ -2,6 +2,24 @@
 body {
   background-color: hsl(209, 58%, 71%);
   height: 100vh;
+  min-height: 100vh;
+  background: linear-gradient(to top left, rgb(221, 234, 240) 50%, hsl(209, 58%, 71%) 50%);
+  position: relative;
+}
+
+.font{
+  text-align: center;
+  padding: 15px;
+}
+
+.home-header-font{
+  text-align: center;
+  font-size: 110px;
+  margin-top: 13rem;
+}
+.home-container {
+  display: flex;
+  justify-content: space-between; /* This separates the two sides */
 }
 
 .header-font{
@@ -10,32 +28,17 @@ body {
   font-size: 60px;
 }
 
-.home-header-font{
-  text-align: left;
-  margin-left: 5rem;
-  font-size: 110px;
-  margin-top: 10rem;
-}
-.home-container {
-  display: flex;
-  justify-content: space-between; /* This separates the two sides */
-}
-
-.title {
+.home-title {
   flex: 1; /* This makes the title and info take up equal space. Adjust these numbers if you want different proportions */
 }
 
-.info {
+.home-info {
   font-size: 30px;
   margin-top: 25rem;
   text-align: center;
   flex: 1; /* This makes the title and info take up equal space. Adjust these numbers if you want different proportions */
 }
 
-.font{
-  text-align: center;
-  padding: 15px;
-}
 
 .container {
   position: relative;
@@ -113,7 +116,7 @@ img {
 }
 
 /* CSS */
-.button-80 {
+.button {
   background: #fff;
   border-radius: .375rem;
   border-style: solid;
@@ -134,19 +137,19 @@ img {
   touch-action: manipulation;
 }
 
-.button-80:not(:disabled):hover {
+.button:not(:disabled):hover {
   transform: scale(1.05);
 }
 
-.button-80:not(:disabled):hover:active {
+.button:not(:disabled):hover:active {
   transform: scale(1.05) translateY(.125rem);
 }
 
-.button-80:focus {
+.button:focus {
   outline: 0 solid transparent;
 }
 
-.button-80:focus:before {
+.button:focus:before {
   content: "";
   left: calc(-1*.375rem);
   pointer-events: none;
@@ -156,15 +159,15 @@ img {
   user-select: none;
 }
 
-.button-80:focus:not(:focus-visible) {
+.button:focus:not(:focus-visible) {
   outline: 0 solid transparent;
 }
 
-.button-80:focus:not(:focus-visible):before {
+.button:focus:not(:focus-visible):before {
   border-width: 0;
 }
 
-.button-80:not(:disabled):active {
+.button:not(:disabled):active {
   transform: translateY(.125rem);
 }
 

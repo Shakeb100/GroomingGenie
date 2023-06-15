@@ -12,14 +12,14 @@ const app: React.FC = () => {
     <div className="body">
         <div className={jose.className}>
         <div className="home-container">
-          <div className='title'>
+          <div className='home-title'>
             <h1 className = "home-header-font">Grooming Genie🧞</h1>
           </div>
-          <div className="info">
+          <div className="home-info">
             <h2>Use the "magic" of Grooming Genie's Dall-E Powered AI Beard Generator!</h2>
             <div className='center-content'>
         <Link href= "/StartPage">
-          <button className='button-80'>Get Started</button>
+          <button className='button'>Get Started</button>
         </Link>
         </div>
         </div>
