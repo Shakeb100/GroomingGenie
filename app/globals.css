@@ -15,7 +15,7 @@ body {
 .home-header-font{
   text-align: center;
   font-size: 110px;
-  margin-top: 13rem;
+  margin-top: 10rem;
 }
 .home-container {
   display: flex;
@@ -34,7 +34,7 @@ body {
 
 .home-info {
   font-size: 30px;
-  margin-top: 25rem;
+  margin-top: 22rem;
   text-align: center;
   flex: 1; /* This makes the title and info take up equal space. Adjust these numbers if you want different proportions */
 }
