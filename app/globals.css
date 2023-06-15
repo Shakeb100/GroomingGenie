@@ -2,7 +2,7 @@
 body {
   background-color: hsl(209, 58%, 71%);
   min-height: 100vh;
-  background: linear-gradient(to top left, rgba(130, 11, 221, 0.675) 20%, hsla(215, 97%, 47%, 0.594) 50%);
+  background: linear-gradient(to top left, rgba(130, 11, 221, 0.675) 20%, hsla(215, 97%, 47%, 0.506) 50%);
   position: relative;
 }
 
