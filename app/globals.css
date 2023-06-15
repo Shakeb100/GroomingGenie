@@ -16,6 +16,13 @@ body {
   font-size: 140px;
   margin-top: 8rem;
   margin-left: 5rem;
+  color: #f8f8f8;
+  color: #f8f8f8;
+  text-shadow: 
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    2px 2px 0 #000;
 }
 .home-container {
   display: flex;
@@ -33,6 +40,13 @@ body {
 }
 
 .home-info {
+  color: #fff;
+  color: white;
+  text-shadow: 
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    2px 2px 0 #000;
   font-size: 25px;
   margin-top: 16rem;
   padding: 8rem;

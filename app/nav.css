@@ -3,8 +3,8 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: .5rem 2rem;
-    background-color: rgb(221, 234, 240);
-    color: #fff;
+    background-color: #f8f8f8;
+    color: #f8f8f8;
     border-bottom: 1px solid black; /* This line adds the black border at the bottom */
 }
 
