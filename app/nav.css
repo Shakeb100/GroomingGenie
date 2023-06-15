@@ -5,7 +5,7 @@ nav {
     padding: 1rem 2rem;
     background-color: rgb(221, 234, 240);
     color: #fff;
-    border-bottom: 2px solid black; /* This line adds the black border at the bottom */
+    border-bottom: 1px solid black; /* This line adds the black border at the bottom */
 }
 
 .logo h1 {

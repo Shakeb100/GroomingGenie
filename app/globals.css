@@ -29,14 +29,15 @@ body {
 }
 
 .home-title {
-  flex: 1; /* This makes the title and info take up equal space. Adjust these numbers if you want different proportions */
+  flex: .5; /* This makes the title and info take up equal space. Adjust these numbers if you want different proportions */
 }
 
 .home-info {
   font-size: 30px;
-  margin-top: 22rem;
+  margin-top: 21rem;
+  padding: 4rem;
   text-align: center;
-  flex: 1; /* This makes the title and info take up equal space. Adjust these numbers if you want different proportions */
+  flex: .6 /* This makes the title and info take up equal space. Adjust these numbers if you want different proportions */
 }
 
 
