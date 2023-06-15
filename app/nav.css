@@ -2,7 +2,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 2rem;
+    padding: .5rem 2rem;
     background-color: rgb(221, 234, 240);
     color: #fff;
     border-bottom: 1px solid black; /* This line adds the black border at the bottom */
@@ -21,7 +21,7 @@ nav {
 }
 
 .links a:hover {
-    color: hsl(209, 58%, 71%);
+    color: rgba(130, 11, 221, 0.781);
 }
 
 html, body {

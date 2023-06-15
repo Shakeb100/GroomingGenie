@@ -1,9 +1,8 @@
 
 body {
   background-color: hsl(209, 58%, 71%);
-  height: 100vh;
   min-height: 100vh;
-  background: linear-gradient(to top left, rgb(221, 234, 240) 50%, hsl(209, 58%, 71%) 50%);
+  background: linear-gradient(to top left, rgba(130, 11, 221, 0.675) 20%, hsla(215, 97%, 47%, 0.685) 50%);
   position: relative;
 }
 
@@ -14,8 +13,9 @@ body {
 
 .home-header-font{
   text-align: center;
-  font-size: 110px;
-  margin-top: 10rem;
+  font-size: 140px;
+  margin-top: 8rem;
+  margin-left: 5rem;
 }
 .home-container {
   display: flex;
@@ -33,9 +33,9 @@ body {
 }
 
 .home-info {
-  font-size: 30px;
-  margin-top: 21rem;
-  padding: 4rem;
+  font-size: 25px;
+  margin-top: 16rem;
+  padding: 8rem;
   text-align: center;
   flex: .6 /* This makes the title and info take up equal space. Adjust these numbers if you want different proportions */
 }
