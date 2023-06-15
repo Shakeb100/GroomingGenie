@@ -13,7 +13,6 @@ const App: React.FC = () => {
     <div className="body">
       <div className={jose.className}>
       <h1 className = "header-font" >Tough Scruff Beard</h1>
-
       <div className="center-content2">
       <div className='white-box'>
           <div className="text-container">

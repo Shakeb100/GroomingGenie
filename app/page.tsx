@@ -11,12 +11,18 @@ const app: React.FC = () => {
   return (
     <div className="body">
         <div className={jose.className}>
-        <h1 className = "header-font">Grooming Genie🧞</h1>
-        <div className="center-content">
-        <h2>Use the "magic" of Grooming Genie's Dall-E Powered AI Beard Generator!</h2>
-        <Link href= "/FirstPage">
+        <div className="home-container">
+          <div className='title'>
+            <h1 className = "home-header-font">Grooming Genie🧞</h1>
+          </div>
+          <div className="info">
+            <h2>Use the "magic" of Grooming Genie's Dall-E Powered AI Beard Generator!</h2>
+            <div className='center-content'>
+        <Link href= "/StartPage">
           <button className='button-80'>Get Started</button>
         </Link>
+        </div>
+        </div>
         </div>
     </div>
     </div>

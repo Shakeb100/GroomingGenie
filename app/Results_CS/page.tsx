@@ -27,7 +27,7 @@ const App: React.FC = () => {
           <div>
               <img src="Blade Razor.jpeg" className='freshface-right-img'></img>
             </div>
-            </div>
+          </div>
           </div>
         
       
