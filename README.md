@@ -26,4 +26,4 @@ Grooming Genie is an innovative web application built with TypeScript and Next.j
 -  Hosting the application on the internet to reach a wider audience.
 - Connecting with local barbershops and salons to provide users with local grooming services.
 
-Whether you're a seasoned pro or someone new to grooming, Grooming Genie is the perfect tool to help you achieve your desired facial hair goals. Whether you're looking for a complete transformation or just need some guidance, Grooming Genie is here to make it easy for you. Give it a try today and see the results for yourself!
+Whether you're looking for a complete transformation or just need some guidance, Grooming Genie is here to make it easy for you. Give it a try today and see the results for yourself!
