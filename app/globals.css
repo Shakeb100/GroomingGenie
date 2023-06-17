@@ -1,7 +1,6 @@
 .body {
   min-height: 100vh;
   background: linear-gradient(to top left, rgba(130, 11, 221, 0.75), hsla(215, 93%, 48%, 0.751));
-  background-size: cover;
   position: relative;
 }
 
@@ -10,6 +9,11 @@
   padding: 15px;
 }
 
+.header-font{
+  text-align: center;
+  margin-top: 5rem;
+  font-size: 60px;
+}
 .home-container {
   display: flex;
   flex-direction: column;
