@@ -1,7 +1,8 @@
-.body {
+body {
   min-height: 100vh;
   background: linear-gradient(to top left, rgba(130, 11, 221, 0.75), hsla(215, 93%, 48%, 0.751));
   position: relative;
+
 }
 
 .font {
