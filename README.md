@@ -27,3 +27,5 @@ Grooming Genie is an innovative web application built with TypeScript and Next.j
 - Connecting with local barbershops and salons to provide users with local grooming services.
 
 Whether you're looking for a complete transformation or just need some guidance, Grooming Genie is here to make it easy for you. Give it a try today and see the results for yourself!
+
+Please request to restart beard generator if it is down. Running the model can be costly and works on a request basis as of right now. Working on making it active at all times. 
